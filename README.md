@@ -4,6 +4,8 @@ Finding the Most Relevant Answer from Discussion Forum using NLP
 
 Divjot Dhody, Ajith Balaji Nagarajan, Pooja Ramaswamy, Khang Doan 
 
+THe project can also be viewed at :https://github.com/SJSU272Spring2019/Project-Group-20
+
  StackOverflow, a website that is ubiquitous in the engineering field for both academia and professional settings. StackOverflow remains one of the most used websites when it comes to finding and obtaining solutions to technical problems. Any users on that website has experience with trying to find the most appropriate answer from a long list of comments. This process involves manually looking for keywords, checking the number of up-votes each answer has, and trying out solution that may not be right. 
 
 The proposed solution is a system that takes in users’ query and matching it up with the most appropriate answer. 
